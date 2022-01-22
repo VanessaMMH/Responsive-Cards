@@ -77,12 +77,6 @@ body{
 	line-height: 24px;
 	color: #7b8ca0;
 }
-.circulo{
-	height: 50px;
-	width:50px;
-	background-color: red;
-	border-radius: 0 0 120px 120px;
-}
 
 @media screen and (max-width: 1024px){
 	.cards_wrap .card_item{
